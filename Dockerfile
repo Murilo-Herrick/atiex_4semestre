@@ -1,5 +1,3 @@
-# Dockerfile
-
 # Imagem base do Nginx
 FROM nginx:alpine
 
