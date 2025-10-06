@@ -12,8 +12,8 @@ Este projeto consiste em duas partes:
 - `index.html` → página principal com o gráfico
 - `nginx.conf` → configuração do Nginx para servir a página
 - `Dockerfile` → arquivo para criar a imagem Docker e subir no Render
-- **Flutter App** → envia respostas para o Firestore
-- **Firebase Firestore** → banco de dados em nuvem que armazena as respostas
+- `Flutter App` → envia respostas para o Firestore
+- `Firebase Firestore` → banco de dados em nuvem que armazena as respostas
 
 ---
 
