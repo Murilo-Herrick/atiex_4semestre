@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712922289189",
+    "project_id": "pesquisasatisfacao-20d26",
+    "storage_bucket": "pesquisasatisfacao-20d26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712922289189:android:3f19615781fda8a447dbcc",
+        "android_client_info": {
+          "package_name": "com.example.atiex_4semestre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXue3hEiI9h3gmiBcDBYqOpkWvqXmGcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
